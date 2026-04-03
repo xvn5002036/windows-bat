@@ -1,10 +1,10 @@
-# 🛠️ UltimateToolkit (Windows 終極維護與一鍵還原中心)
+# 🛠️ WinMaster_V8 (Windows 終極維護與一鍵還原中心)
 
 ![Version](https://img.shields.io/badge/Version-8.0-blue.svg)
 ![OS](https://img.shields.io/badge/OS-Windows_10%20%7C%2011-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-`UltimateToolkit.bat` 是一套專為 IT 維護人員與進階玩家打造的 Windows 全方位系統部署與維護腳本。
+`WinMaster_V8.cmd` 是一套專為 IT 維護人員與進階玩家打造的 Windows 全方位系統部署與維護腳本。
 透過純批次檔 (Batch) 整合 DISM、BCDBoot 與 DiskPart 等原生底層工具，實現從系統備份、智能部署、離線驅動注入到建立本地一鍵還原環境的 All-in-One 解決方案。
 
 ## ✨ 核心功能 (Features)
@@ -34,7 +34,7 @@
 
 ## 📖 快速上手 (Quick Start)
 
-1. 下載 `UltimateToolkit.bat`。
+1. 下載 `WinMaster_V8.cmd`。
 2. 將腳本與你的 `.wim` 或 `.esd` 映像檔放置於同一個資料夾。
 3. 右鍵點擊腳本 ➔ **以系統管理員身分執行**。
 4. 依照畫面上的互動式選單輸入對應數字即可操作。如果忘記流程，可在主選單輸入 `H` 呼叫內建的 SOP 操作手冊。
